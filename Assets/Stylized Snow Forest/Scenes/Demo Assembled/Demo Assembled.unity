@@ -27662,8 +27662,8 @@ MonoBehaviour:
   _emitterSize: {x: 50, y: 50, z: 50}
   _throttle: 1
   _direction: {x: -0, y: -0, z: -1}
-  _minSpeed: 13.02139
-  _maxSpeed: 26.310162
+  _minSpeed: 1.7431955
+  _maxSpeed: 15.031975
   _spread: 0.031
   _noiseAmplitude: 11
   _noiseFrequency: 0.104
